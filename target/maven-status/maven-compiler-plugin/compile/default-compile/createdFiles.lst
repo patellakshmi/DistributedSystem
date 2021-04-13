@@ -1,0 +1,11 @@
+org/fight4edu/management/LeaderElection$1.class
+org/fight4edu/management/OnElectionAction.class
+org/fight4educ/search/TFIDF$1.class
+org/fight4edu/management/ServiceRegistry.class
+org/fight4edu/management/LeaderElection.class
+org/fight4educ/search/DocumentData.class
+org/fight4educ/search/TFIDF.class
+org/fight4edu/management/CoordinationRegistry.class
+org/fight4edu/management/OnElectionCallback.class
+Applicaton.class
+Applicaton$1.class
